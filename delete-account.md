@@ -1,6 +1,5 @@
 ---
 title: Delete your TCGScan account
-permalink: /delete-account/
 ---
 
 # Delete your TCGScan account & data

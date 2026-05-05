@@ -57,7 +57,7 @@ If we add an analytics tool (PostHog, Mixpanel) or a crash reporter (Sentry, Fir
 ## Your rights
 
 - **Export:** request a copy of your data via the in-app "Export collection" feature (CSV/JSON)
-- **Delete:** request account deletion via the in-app "Delete account" feature, or by emailing us (see Contact below). [Step-by-step instructions and a list of what is deleted vs retained →](/tcgscan-legal/delete-account/)
+- **Delete:** request account deletion via the in-app "Delete account" feature, or by emailing us (see Contact below). [Step-by-step instructions and a list of what is deleted vs retained →](delete-account.html)
 - **Access:** all your data is visible in the app's collection and deck screens
 - **Portability:** exported data is in standard formats (CSV, JSON, MTGO/Moxfield deck text)
 
